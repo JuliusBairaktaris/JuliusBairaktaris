@@ -12,7 +12,7 @@ I work on Qualcomm router support in OpenWrt and the Linux kernel.
 - [nss-packages](https://github.com/JuliusBairaktaris/nss-packages): the NSS package feed.
 - [OpenWrt PR #24806](https://github.com/openwrt/openwrt/pull/24806): PPE hardware flow offload for IPQ807x, driven from nftables and tc.
 
-Other work: [OpenWrt pull requests](https://github.com/openwrt/openwrt/pulls?q=is%3Apr+author%3AJuliusBairaktaris), [kernel patches](https://lore.kernel.org/all/?q=f%3Ajulius%40bairaktaris.de) (ath11k, mac80211, netfilter), [FFmpeg AMF fixes](https://github.com/FFmpeg/FFmpeg/commit/d43b1efd2e948f44cfac91f7a4325a3d927d6718).
+Other work: [OpenWrt pull requests](https://github.com/openwrt/openwrt/pulls?q=is%3Apr+author%3AJuliusBairaktaris), [kernel patches](https://lore.kernel.org/all/?q=f%3Ajulius%40bairaktaris.de) (ath11k, mac80211, netfilter), [FFmpeg pull requests](https://code.ffmpeg.org/FFmpeg/FFmpeg/pulls?state=all&poster=986) (AMF filters).
 
 <img src="https://github-stats-extended.vercel.app/api?username=JuliusBairaktaris&show_icons=true&hide_border=true&bg_color=10151C&title_color=C9A24B&text_color=EDEEF0&icon_color=C9A24B">
 
